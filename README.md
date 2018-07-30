@@ -1,3 +1,6 @@
+
+<iframe src="https://web.facebook.com/plugins/post.php?href=https%3A%2F%2Fweb.facebook.com%2Fladygloryutara%2Fphotos%2Fa.1880012682309827.1073741827.1880011832309912%2F1949747532003008%2F%3Ftype%3D3&width=500" width="500" height="299" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allow="encrypted-media"></iframe>
+
 ## Lady Glory Utara
 
 <iframe src="https://web.facebook.com/plugins/post.php?href=https%3A%2F%2Fweb.facebook.com%2Fladygloryutara%2Fphotos%2Fa.1880012682309827.1073741827.1880011832309912%2F1949747532003008%2F%3Ftype%3D3&width=500" width="500" height="299" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allow="encrypted-media"></iframe>
