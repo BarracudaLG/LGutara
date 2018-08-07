@@ -199,7 +199,8 @@ h6 {
 
 .navigation ul{
 	margin:0px;
-	padding:0px;
+	padding:20px;
+	/*-----*/
 }
 
 .navigation ul li{
