@@ -221,7 +221,7 @@ h6 {
 
 /*----start page content----*/
 #page_content{
-	background-color: #fec84e; 
+	background-color: #EEE8AA; 
 	padding:10px;
 }
 
@@ -334,7 +334,7 @@ a.btn:hover{
 	font-family:Verdana, Geneva, sans-serif;
 	font-size:12px;
 	line-height:20px;
-	background-color:#eff4d6;
+	background-color:#EEE8AA;
 }
 
 /*----end footer content----*/
