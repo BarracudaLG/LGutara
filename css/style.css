@@ -209,6 +209,7 @@ h6 {
 	display:inline;
 	font-size:15px;
 	list-style-type:none;
+	font-weight: bold;
 	border-right:#b2b3ad dotted 1px;
 }
 
