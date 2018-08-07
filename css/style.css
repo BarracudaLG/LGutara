@@ -212,8 +212,12 @@ h6 {
 }
 
 .navigation ul li a{
-	color:#d9dfd1;
+	color:#000000;
 	text-decoration:none;
+	
+	/*
+	#d9dfd1
+	*/
 }
 
 .navigation ul li a:hover{
