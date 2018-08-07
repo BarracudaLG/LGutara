@@ -109,7 +109,7 @@ h6 {
 	/*  lists
 	******************************/
 	ul, ol {padding:0;margin:0;}
-	ul li {list-style-type:disc;font-size: 25px; }
+	ul li {list-style-type:disc;font-size: 25px;}
 	ol li {list-style-type:decimal;}
 	ul li,
 	ol li {font-size: 12px; line-height: 16px;margin: 0 0 10px 15px;}
