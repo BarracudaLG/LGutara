@@ -13,7 +13,7 @@ html, body, div, span, applet, object, iframe, h1, h2, h3, h4, h5, h6, p, blockq
 
 ol, ul {
 	list-style-type:none;
-	font-size: 40px;
+	font-size: 80px;
 }
 
 h1, h2, h3, h4, h5, h6, li {
@@ -109,7 +109,7 @@ h6 {
 	/*  lists
 	******************************/
 	ul, ol {padding:0;margin:0;}
-	ul li {list-style-type:disc;}
+	ul li {list-style-type:disc;font-size: 25px; }
 	ol li {list-style-type:decimal;}
 	ul li,
 	ol li {font-size: 12px; line-height: 16px;margin: 0 0 10px 15px;}
