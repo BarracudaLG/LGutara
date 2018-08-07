@@ -122,7 +122,11 @@ h6 {
 	
 	/*  horizontal lines
 	******************************/
-	hr {border-bottom: 1px solid #dbdfc4;margin:5px 0;padding:0;height:2px;width:100%; margin-bottom:10px;}
+	hr {border-bottom: 1px solid #000000;margin:5px 0;padding:0;height:2px;width:100%; margin-bottom:10px;}
+
+/*
+#dbdfc4
+*/
 
 .clear {
 	clear:both;
